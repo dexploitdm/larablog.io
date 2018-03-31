@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game name="7_days_to_die">
+  <language name="ar_AE" translation="">
+    <setting name="Anti-aliasing" translation="منع الترادف">
+      <value name="Off" translation="إيقاف تشغيل" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Display Mode" translation="وضع العرض">
+      <value name="Full-screen" translation="شاشة كاملة" />
+      <value name="Windowed" translation="مزود بإطارات" />
+    </setting>
+    <setting name="DOF" translation="عمق المجال">
+      <value name="Off" translation="إيقاف تشغيل" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Grass Distance" translation="مسافة العشب">
+      <value name="Far" translation="بعيد" />
+      <value name="Near" translation="قريب" />
+      <value name="Normal" translation="عادي" />
+      <value name="Very Far" translation="بعيد جداً" />
+    </setting>
+    <setting name="LOD Distance" translation="مسافة LOD" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="منع الترادف للعينات متعددة الإطارات لـ NVIDIA">
+      <value name="Off" translation="إيقاف" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Reflected Shadows" translation="ظلال منعكسة">
+      <value name="Off" translation="إيقاف تشغيل" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Reflection Quality" translation="جودة العكس">
+      <value name="High" translation="مرتفع" />
+      <value name="Low" translation="منخفض" />
+      <value name="Middle" translation="منتصف" />
+      <value name="Off" translation="إيقاف تشغيل" />
+      <value name="Ultra" translation="ألترا" />
+    </setting>
+    <setting name="Resolution" translation="الدقة" />
+    <setting name="Shadow Distance" translation="مسافة الظل">
+      <value name="High" translation="مرتفع" />
+      <value name="Low" translation="منخفض" />
+      <value name="Middle" translation="منتصف" />
+      <value name="No Shadows" translation="لا توجد ظلال" />
+      <value name="Ultra" translation="ألترا" />
+    </setting>
+    <setting name="SSAO" translation="SSAO">
+      <value name="Off" translation="إيقاف تشغيل" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Sun Shafts" translation="أعمدة الشمس">
+      <value name="Off" translation="إيقاف تشغيل" />
+      <value name="On" translation="تشغيل" />
+    </setting>
+    <setting name="Texture Quality" translation="جودة مواد الصور">
+      <value name="Eighth Size" translation="الحجم الثامن" />
+      <value name="Full Size" translation="الحجم الكامل" />
+      <value name="Half Size" translation="حجم نصفي" />
+      <value name="Quarter Size" translation="حجم ربعي" />
+    </setting>
+    <setting name="Tree Quality" translation="جودة الشجرة">
+      <value name="High" translation="مرتفع" />
+      <value name="Low" translation="منخفض" />
+      <value name="Middle" translation="منتصف" />
+      <value name="Ultra" translation="ألترا" />
+    </setting>
+    <setting name="UMA Texture Quality" translation="جودة مواد صور UMA">
+      <value name="High" translation="مرتفع" />
+      <value name="Low" translation="منخفض" />
+      <value name="Lowest" translation="أقل" />
+      <value name="Middle" translation="منتصف" />
+    </setting>
+    <setting name="View Distance" translation="عرض المسافة">
+      <value name="10" translation="10" />
+      <value name="11" translation="11" />
+      <value name="12" translation="12" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+      <value name="9" translation="9" />
+    </setting>
+    <setting name="Water Particles" translation="جزيئات الماء" />
+    <setting name="Water Quality" translation="جودة الماء">
+      <value name="High" translation="مرتفع" />
+      <value name="Low" translation="منخفض" />
+    </setting>
+  </language>
+  <language name="cs_CZ" translation="">
+    <setting name="Anti-aliasing" translation="Vyhlazování hran">
+      <value name="Off" translation="Vypnuto" />
+      <value name="On" translation="Zapnuto" />
+    </setting>
+    <setting name="Display Mode" translation="Režim zobrazení">
+      <value name="Full-screen" translation="Celá obrazovka" />
+      <value name="Windowed" translation="V okně" />
+    </setting>
+    <setting name="DOF" translation="Hloubka ostrosti">
+      <value name="Off" translation="Vypnutá" />
+      <value name="On" translation="Zapnutá" />
+    </setting>
+    <setting name="Grass Distance" translation="Vzdálenost trávy">
+      <value name="Far" translation="Vzdálená" />
+      <value name="Near" translation="Blízká" />
+      <value name="Normal" translation="Normální" />
+      <value name="Very Far" translation="Velmi vzdálená" />
+    </setting>
+    <setting name="LOD Distance" translation="Vzdálenost - úroveň detailu" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Technologie vyhlazování hran NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Vypnuto" />
+      <value name="On" translation="Zapnuto" />
+    </setting>
+    <setting name="Reflected Shadows" translation="Odražené stíny">
+      <value name="Off" translation="Vypnuto" />
+      <value name="On" translation="Zapnuto" />
+    </setting>
+    <setting name="Reflection Quality" translation="Kvalita odrazu">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízká" />
+      <value name="Middle" translation="Střední" />
+      <value name="Off" translation="Vypnuto" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Resolution" translation="Rozlišení" />
+    <setting name="Shadow Distance" translation="Pozorovací vzdálenost stínů">
+      <value name="High" translation="Vysoké" />
+      <value name="Low" translation="Nízké" />
+      <value name="Middle" translation="Střední" />
+      <value name="No Shadows" translation="Žádné stíny" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="SSAO" translation="SSAO">
+      <value name="Off" translation="Vypnuto" />
+      <value name="On" translation="Zapnuto" />
+    </setting>
+    <setting name="Sun Shafts" translation="Sluneční paprsky">
+      <value name="Off" translation="Vypnuto" />
+      <value name="On" translation="Zapnuto" />
+    </setting>
+    <setting name="Texture Quality" translation="Kvalita textury">
+      <value name="Eighth Size" translation="8. velikost" />
+      <value name="Full Size" translation="Plná velikost" />
+      <value name="Half Size" translation="Poloviční velikost" />
+      <value name="Quarter Size" translation="Čtvrtinová velikost" />
+    </setting>
+    <setting name="Tree Quality" translation="Kvalita stromů">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízká" />
+      <value name="Middle" translation="Střední" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="UMA Texture Quality" translation="Kvalita textur UMA">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízká" />
+      <value name="Lowest" translation="Nejnižší" />
+      <value name="Middle" translation="Střední" />
+    </setting>
+    <setting name="View Distance" translation="Pozorovací vzdálenost">
+      <value name="10" translation="10" />
+      <value name="11" translation="11" />
+      <value name="12" translation="12" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+      <value name="9" translation="9" />
+    </setting>
+    <setting name="Water Particles" translation="Vodní částice" />
+    <setting name="Water Quality" translation="Kvalita vody">
+      <value name="High" translation="Vysoká" />
+      <value name="Low" translation="Nízká" />
+    </setting>
+  </language>
+  <language name="da_DK" translation="">
+    <setting name="Anti-aliasing" translation="Udjævning">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Display Mode" translation="Skærmtilstand">
+      <value name="Full-screen" translation="Fuld skærm" />
+      <value name="Windowed" translation="Vinduesopdelt" />
+    </setting>
+    <setting name="DOF" translation="Skarphedsdybde">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Grass Distance" translation="Græsafstand">
+      <value name="Far" translation="Langt væk" />
+      <value name="Near" translation="Tæt på" />
+      <value name="Normal" translation="Normal" />
+      <value name="Very Far" translation="Meget langt væk" />
+    </setting>
+    <setting name="LOD Distance" translation="Afstand for detaljeniveau" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA udjævning med prøvetagning fra flere billeder">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Reflected Shadows" translation="Reflekterede skygger">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Reflection Quality" translation="Reflektionskvalitet">
+      <value name="High" translation="Høj" />
+      <value name="Low" translation="Lav" />
+      <value name="Middle" translation="Midten" />
+      <value name="Off" translation="Fra" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Resolution" translation="Opløsning" />
+    <setting name="Shadow Distance" translation="Skyggeafstand">
+      <value name="High" translation="Høj" />
+      <value name="Low" translation="Lav" />
+      <value name="Middle" translation="Mellem" />
+      <value name="No Shadows" translation="Ingen skygger" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="SSAO" translation="SSAO">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Sun Shafts" translation="Solsøjler">
+      <value name="Off" translation="Fra" />
+      <value name="On" translation="Til" />
+    </setting>
+    <setting name="Texture Quality" translation="Teksturkvalitet">
+      <value name="Eighth Size" translation="Ottendedel str." />
+      <value name="Full Size" translation="Fuld str." />
+      <value name="Half Size" translation="Halv str." />
+      <value name="Quarter Size" translation="Kvart str." />
+    </setting>
+    <setting name="Tree Quality" translation="Kvalitet på træer">
+      <value name="High" translation="Høj" />
+      <value name="Low" translation="Lav" />
+      <value name="Middle" translation="Mellem" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="UMA Texture Quality" translation="UMA-teksturkvalitet">
+      <value name="High" translation="Høj" />
+      <value name="Low" translation="Lav" />
+      <value name="Lowest" translation="Lavest" />
+      <value name="Middle" translation="Mellem" />
+    </setting>
+    <setting name="View Distance" translation="Visningsafstand">
+      <value name="10" translation="10" />
+      <value name="11" translation="11" />
+      <value name="12" translation="12" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+      <value name="9" translation="9" />
+    </setting>
+    <setting name="Water Particles" translation="Vandpartikler" />
+    <setting name="Water Quality" translation="Vandkvalitet">
+      <value name="High" translation="Høj" />
+      <value name="Low" translation="Lav" />
+    </setting>
+  </language>
+  <language name="de_DE" translation="">
+    <setting name="Anti-aliasing" translation="Antialiasing">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Display Mode" translation="Anzeigemodus">
+      <value name="Full-screen" translation="Ganzer Bildschirm" />
+      <value name="Windowed" translation="Fenster" />
+    </setting>
+    <setting name="DOF" translation="Schärfentiefe">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Grass Distance" translation="Grasentfernung">
+      <value name="Far" translation="Fern" />
+      <value name="Near" translation="Nah" />
+      <value name="Normal" translation="Normal" />
+      <value name="Very Far" translation="Sehr weit" />
+    </setting>
+    <setting name="LOD Distance" translation="LOD-Entfernung" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame-Sample Anti-aliasing">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Reflected Shadows" translation="Reflektierte Schatten">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Reflection Quality" translation="Reflexionsqualität">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Middle" translation="Mittel" />
+      <value name="Off" translation="Aus" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Resolution" translation="Auflösung" />
+    <setting name="Shadow Distance" translation="Schattendistanz">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Middle" translation="Mittel" />
+      <value name="No Shadows" translation="Keine Schatten" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="SSAO" translation="SSAO">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Sun Shafts" translation="Sonnenbüschel">
+      <value name="Off" translation="Aus" />
+      <value name="On" translation="Ein" />
+    </setting>
+    <setting name="Texture Quality" translation="Texturqualität">
+      <value name="Eighth Size" translation="Achtel-Größe" />
+      <value name="Full Size" translation="Volle Größe" />
+      <value name="Half Size" translation="Halbe Größe" />
+      <value name="Quarter Size" translation="Viertel-Größe" />
+    </setting>
+    <setting name="Tree Quality" translation="Baumqualität">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Middle" translation="Mittel" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="UMA Texture Quality" translation="UMA Texturqualität">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+      <value name="Lowest" translation="Am niedrigsten" />
+      <value name="Middle" translation="Mittel" />
+    </setting>
+    <setting name="View Distance" translation="Betrachtungsabstand">
+      <value name="10" translation="10" />
+      <value name="11" translation="11" />
+      <value name="12" translation="12" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+      <value name="9" translation="9" />
+    </setting>
+    <setting name="Water Particles" translation="Wasserpartikel" />
+    <setting name="Water Quality" translation="Wasserqualität">
+      <value name="High" translation="Hoch" />
+      <value name="Low" translation="Niedrig" />
+    </setting>
+  </language>
+  <language name="el_GR" translation="">
+    <setting name="Anti-aliasing" translation="Εξομάλυνση ορίων">
+      <value name="Off" translation="Ανενεργή" />
+      <value name="On" translation="Ενεργή" />
+    </setting>
+    <setting name="Display Mode" translation="Λειτουργία οθόνης">
+      <value name="Full-screen" translation="Πλήρης οθόνη" />
+      <value name="Windowed" translation="Με παράθυρα" />
+    </setting>
+    <setting name="DOF" translation="Βάθος πεδίου">
+      <value name="Off" translation="Ανενεργό" />
+      <value name="On" translation="Ενεργό" />
+    </setting>
+    <setting name="Grass Distance" translation="Απόσταση γρασιδιού">
+      <value name="Far" translation="Μακριά" />
+      <value name="Near" translation="Κοντά" />
+      <value name="Normal" translation="Κανονική" />
+      <value name="Very Far" translation="Πολύ μακριά" />
+    </setting>
+    <setting name="LOD Distance" translation="Απόστασης επιπέδου λεπτομέρειας" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="Εξομάλυνση ορίων πολλαπλών καρέ με δειγματοληψία NVIDIA">
+      <value name="Off" translation="Ανενεργή" />
+      <value name="On" translation="Ενεργή" />
+    </setting>
+    <setting name="Reflected Shadows" translation="Ανακλώμενες σκιές">
+      <value name="Off" translation="Ανενεργές" />
+      <value name="On" translation="Ενεργές" />
+    </setting>
+    <setting name="Reflection Quality" translation="Ποιότητα αντανάκλασης">
+      <value name="High" translation="Υψηλή" />
+      <value name="Low" translation="Χαμηλή" />
+      <value name="Middle" translation="Μεσαία" />
+      <value name="Off" translation="Ανενεργή" />
+      <value name="Ultra" translation="Εξαιρετική" />
+    </setting>
+    <setting name="Resolution" translation="Ανάλυση" />
+    <setting name="Shadow Distance" translation="Απόσταση σκιών">
+      <value name="High" translation="Υψηλή" />
+      <value name="Low" translation="Χαμηλή" />
+      <value name="Middle" translation="Μεσαία" />
+      <value name="No Shadows" translation="Χωρίς σκιές" />
+      <value name="Ultra" translation="Εξαιρετική" />
+    </setting>
+    <setting name="SSAO" translation="Περιβαλλοντική Έμφραξη Χώρου Οθόνης">
+      <value name="Off" translation="Ανενεργό" />
+      <value name="On" translation="Ενεργό" />
+    </setting>
+    <setting name="Sun Shafts" translation="Δέσμες φωτός ήλιου">
+      <value name="Off" translation="Ανενεργές" />
+      <value name="On" translation="Ενεργές" />
+    </setting>
+    <setting name="Texture Quality" translation="Ποιότητα υφής">
+      <value name="Eighth Size" translation="Ένα όγδοο του μεγέθους" />
+      <value name="Full Size" translation="Πλήρες μέγεθος" />
+      <value name="Half Size" translation="Μισό μέγεθος" />
+      <value name="Quarter Size" translation="Ένα τέταρτο του μεγέθους" />
+    </setting>
+    <setting name="Tree Quality" translation="Ποιότητα δέντρων">
+      <value name="High" translation="Υψηλή" />
+      <value name="Low" translation="Χαμηλή" />
+      <value name="Middle" translation="Μεσαία" />
+      <value name="Ultra" translation="Εξαιρετική" />
+    </setting>
+    <setting name="UMA Texture Quality" translation="Ποιότητα υφής UMA">
+      <value name="High" translation="Υψηλή" />
+      <value name="Low" translation="Χαμηλή" />
+      <value name="Lowest" translation="Χαμηλότερη" />
+      <value name="Middle" translation="Μεσαία" />
+    </setting>
+    <setting name="View Distance" translation="Απόσταση προβολής">
+      <value name="10" translation="10" />
+      <value name="11" translation="11" />
+      <value name="12" translation="12" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+      <value name="9" translation="9" />
+    </setting>
+    <setting name="Water Particles" translation="Σωματίδια νερού" />
+    <setting name="Water Quality" translation="Ποιότητα νερού">
+      <value name="High" translation="Υψηλή" />
+      <value name="Low" translation="Χαμηλή" />
+    </setting>
+  </language>
+  <language name="en_GB" translation="">
+    <setting name="Anti-aliasing" translation="Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="DOF" translation="DoF">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Grass Distance" translation="Grass Distance">
+      <value name="Far" translation="Far" />
+      <value name="Near" translation="Near" />
+      <value name="Normal" translation="Normal" />
+      <value name="Very Far" translation="Very Far" />
+    </setting>
+    <setting name="LOD Distance" translation="LOD Distance" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Reflected Shadows" translation="Reflected Shadows">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Reflection Quality" translation="Reflection Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Middle" translation="Middle" />
+      <value name="Off" translation="Off" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+    <setting name="Shadow Distance" translation="Shadow Distance">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Middle" translation="Middle" />
+      <value name="No Shadows" translation="No Shadows" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="SSAO" translation="SSAO">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Sun Shafts" translation="Sun Shafts">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Texture Quality" translation="Texture Quality">
+      <value name="Eighth Size" translation="Eighth Size" />
+      <value name="Full Size" translation="Full Size" />
+      <value name="Half Size" translation="Half Size" />
+      <value name="Quarter Size" translation="Quarter Size" />
+    </setting>
+    <setting name="Tree Quality" translation="Tree Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Middle" translation="Middle" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="UMA Texture Quality" translation="UMA Texture Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Lowest" translation="Lowest" />
+      <value name="Middle" translation="Middle" />
+    </setting>
+    <setting name="View Distance" translation="View Distance">
+      <value name="10" translation="10" />
+      <value name="11" translation="11" />
+      <value name="12" translation="12" />
+      <value name="5" translation="5" />
+      <value name="6" translation="6" />
+      <value name="7" translation="7" />
+      <value name="8" translation="8" />
+      <value name="9" translation="9" />
+    </setting>
+    <setting name="Water Particles" translation="Water Particles" />
+    <setting name="Water Quality" translation="Water Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+    </setting>
+  </language>
+  <language name="en_US" translation="">
+    <setting name="Anti-aliasing" translation="Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Display Mode" translation="Display Mode">
+      <value name="Full-screen" translation="Full-screen" />
+      <value name="Windowed" translation="Windowed" />
+    </setting>
+    <setting name="DOF" translation="DOF">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Grass Distance" translation="Grass Distance">
+      <value name="Far" translation="Far" />
+      <value name="Near" translation="Near" />
+      <value name="Normal" translation="Normal" />
+      <value name="Very Far" translation="Very Far" />
+    </setting>
+    <setting name="LOD Distance" translation="LOD Distance" />
+    <setting name="NVIDIA Multi-Frame Sampled Anti-aliasing" translation="NVIDIA Multi-Frame Sampled Anti-aliasing">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Reflected Shadows" translation="Reflected Shadows">
+      <value name="Off" translation="Off" />
+      <value name="On" translation="On" />
+    </setting>
+    <setting name="Reflection Quality" translation="Reflection Quality">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Middle" translation="Middle" />
+      <value name="Off" translation="Off" />
+      <value name="Ultra" translation="Ultra" />
+    </setting>
+    <setting name="Resolution" translation="Resolution" />
+    <setting name="Shadow Distance" translation="Shadow Distance">
+      <value name="High" translation="High" />
+      <value name="Low" translation="Low" />
+      <value name="Middle" translation="Middle" />
+      <value name="No Shadows" translation="No Shadows" />
+      <value name="Ultr
