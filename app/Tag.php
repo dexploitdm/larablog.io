@@ -7,6 +7,7 @@ use Cviebrock\EloquentSluggable\Sluggable;
 
 class Tag extends Model
 {
+    protected $fillable = ['title'];
     use Sluggable;
 
     public function sluggable()
