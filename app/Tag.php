@@ -21,7 +21,7 @@ class Tag extends Model
 
     public function posts(){
 //Много ко многим
-        return $this->belongToMany(
+        return $this->belongsToMany(
             Post::class,
             'post_tags',
             'tag_id',

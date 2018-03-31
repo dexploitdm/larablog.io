@@ -8,7 +8,6 @@
                 <small>приятные слова..</small>
             </h1>
         </section>
-
         <!-- Main content -->
         <section class="content">
             {{Form::open(['route' => ['users.update', $user->id],

@@ -8,7 +8,6 @@
                 <small>приятные слова..</small>
             </h1>
         </section>
-
         <!-- Main content -->
         <section class="content">
             <!-- Default box -->
@@ -50,7 +49,6 @@
                 <!-- /.box-footer-->
             </div>
             <!-- /.box -->
-
         </section>
         <!-- /.content -->
     </div>
