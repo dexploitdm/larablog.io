@@ -7,18 +7,18 @@
                     @foreach($posts as $post)
                     <article class="post">
                         <div class="post-thumb">
-                            <a href="blog.html"><img src="{{$post->getImage()}}" alt=""></a>
+                            <a href="{{route('post.show', $post->slug)}}"><img src="{{$post->getImage()}}" alt=""></a>
 
-                            <a href="blog.html" class="post-thumb-overlay text-center">
+                            <a href="{{route('post.show', $post->slug)}}" class="post-thumb-overlay text-center">
                                 <div class="text-uppercase text-center">View Post</div>
                             </a>
                         </div>
                         <div class="post-content">
                             <header class="entry-header text-center text-uppercase">
                                 @if(isset($post->category->title))
-                                <h6><a href="#"> {{$post->category->title}}</a></h6>
-                                @else  <h6><a href="#"> Нет категории</a></h6> @endif
-                                <h1 class="entry-title"><a href="blog.html">{{$post->title}}</a></h1>
+                                <h6><a href="{{route('category.show', $post->category->slug)}}"> {{$post->category->title}}</a></h6>
+                                @else  <h6><a> Нет категории</a></h6> @endif
+                                <h1 class="entry-title"><a href="{{route('post.show', $post->slug)}}">{{$post->title}}</a></h1>
                             </header>
                             <div class="entry-content">
                                 <p>
@@ -26,7 +26,7 @@
                                 </p>
 
                                 <div class="btn-continue-reading text-center text-uppercase">
-                                    <a href="blog.html" class="more-link">Continue Reading</a>
+                                    <a href="{{route('post.show', $post->slug)}}" class="more-link">Continue Reading</a>
                                 </div>
                             </div>
                             <div class="social-share">

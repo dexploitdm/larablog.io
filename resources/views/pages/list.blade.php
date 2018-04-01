@@ -18,12 +18,9 @@
                                 <div class="post-content">
                                     <header class="entry-header text-center text-uppercase">
                                         @if(isset($post->category->title))
-                                            <h6><a href="#"> {{$post->category->title}}</a></h6>
-                                        @else  <h6><a href="#"> Нет категории</a></h6> @endif
-
+                                            <h6><a href="{{route('category.show', $post->category->slug)}}"> {{$post->category->title}}</a></h6>
+                                        @else  <h6><a> Нет категории</a></h6> @endif
                                         <h1 class="entry-title"><a href="{{route('post.show', $post->slug)}}">{{$post->title}}</a></h1>
-
-
                                     </header>
                                     <div class="entry-content">
                                         <p>
