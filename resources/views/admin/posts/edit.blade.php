@@ -41,7 +41,8 @@
                             <label>Категория</label>
                             {{Form::select('category_id',
                              $categories,
-                              $post->category->id,
+                              ($post->category != null) ? $post->category->id :
+                              null,
                              ['class' => 'form-control select2'])}}
                         </div>
                         <div class="form-group">
